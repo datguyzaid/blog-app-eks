@@ -1,4 +1,4 @@
-# CI/CD Project: Production Level Blog APP Deployment using EKS, Nexus, SonarQube, Trivy with Monitoring Tools
+# CI/CD Project: Production Level Blog App Deployment using EKS, Nexus, SonarQube, Trivy with Monitoring Tools
 
 ![s](https://miro.medium.com/v2/resize:fit:700/1*9CvhrnA6Fg1LTmMjr3n3Kg.gif)
 
@@ -880,9 +880,3 @@ http://<monitoring-vm-ip>:9115
 By setting up these components, you’ll be able to monitor your application’s health and performance effectively.
 
 ### **The End**
-
-## **Author by:**
-
-![s](https://imgur.com/2j6Aoyl.png)
-
-> [!NOTE] > **Join Our** [Telegram Community](https://t.me/prodevopsguy) // [Follow me](https://github.com/NotHarshhaa) **for more DevOps & Cloud content.**
